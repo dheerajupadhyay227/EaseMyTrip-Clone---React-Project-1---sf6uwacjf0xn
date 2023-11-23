@@ -31,7 +31,7 @@ function Navbar() {
       <div className='navbar'>
         <div className='navbar__logo'>
           <Link to='/'>
-            <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC_4A-EKQFbA4UQ9lBcAe7_A&psig=AOvVaw0qsrZq4cK5GEPs_vn-8b_8&ust=1700825347469000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCY_LWC2oIDFQAAAAAdAAAAABAY' alt='' />
+            <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FEaseMyTrip%2F&psig=AOvVaw2lAi-7EQojLGrfpLX_cvej&ust=1700826806789000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDd5t-H2oIDFQAAAAAdAAAAABAE' alt='' />
           </Link>
         </div>
         <div className='navbar__icons'>
